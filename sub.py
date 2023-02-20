@@ -1,0 +1,1 @@
+print("substraction result is")
